@@ -1,0 +1,7 @@
+nama=str(input("Nama :"));
+tanggal_lahir=str(input("Tempat tanggal lahir :"))
+b=(nama[-8:]);
+c=(nama[:7]);
+rumus=b + c
+print("Haloo! ",rumus);
+print("Anda lahir di",tanggal_lahir);
