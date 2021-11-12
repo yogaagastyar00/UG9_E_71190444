@@ -1,0 +1,8 @@
+daftar_1= str(input ("Masukkan daftar belanja 1:"));
+daftar_2= str(input ("Masukkan daftar belanja 2 :"));
+tambahkan_belanja1= str(input ("Tambahkan data ke daftar belanja 1:"));
+tambahkan_belanja2 = str(input ("Tambahkan data ke daftar belanja 2:"));
+daftar1 = (daftar_1+tambahkan_belanja1);
+daftar2 = (daftar_2+tambahkan_belanja2);
+print ("Daftar belanja 1 adalah", daftar_1,",",tambahkan_belanja1)
+print ("Daftar belanja 2 adalah",daftar_2,",",tambahkan_belanja2);
