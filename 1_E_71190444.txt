@@ -1,0 +1,5 @@
+alas_atas=int(input("Masukkan alas atas : "));
+alas_bawah=int(input("Masukkan alas bawah : "));
+tinggi=int(input("Masukkan tinggi : "));
+rumus= (((alas_atas+alas_bawah)/2)*tinggi);
+print("Luas trapesium adalah",rumus);
